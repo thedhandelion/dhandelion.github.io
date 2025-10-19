@@ -1,0 +1,30 @@
+# Basic site settings
+title: "Dhani White - Cyber Security Blog"
+author:
+  name: "Dhani White"
+  email: "teythan2.white@gmail.com"
+description: "Cyber Security and Digital Forensics student documenting learning, projects, and dissertation."
+url: "https://dhandelion.github.io"
+baseurl: "" # blank for username.github.io sites
+
+# Theme
+theme: jekyll-theme-minimal # if remote_theme fails
+remote_theme: "mmistakes/minimal-mistakes" # professional theme
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Personalization
+logo: "" # "/assets/images/logo.png" 
+github: "https://github.com/thedhandelion"
+linkedin: ""
+email: ""
+
+# Blog settings
+permalink: /:categories/:year/:month/:day/:title/
+paginate: 5
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
