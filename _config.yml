@@ -15,7 +15,7 @@ plugins:
   - jekyll-sitemap
 
 # Personalization
-logo: "" # "/assets/images/logo.png" 
+logo: "/assets/images/templogo.png"
 github: "https://github.com/thedhandelion"
 linkedin: ""
 email: ""
