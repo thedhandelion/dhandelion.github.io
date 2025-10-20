@@ -8,7 +8,7 @@ url: "https://thedhandelion.github.io"
 baseurl: "" # blank for username.github.io sites
 
 # Theme
-theme: jekyll-theme-minimal # if remote_theme fails
+# theme: jekyll-theme-minimal # if remote_theme fails
 remote_theme: "mmistakes/minimal-mistakes@4.19.3" # professional theme
 plugins:
   - jekyll-feed
